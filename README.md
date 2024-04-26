@@ -1,6 +1,4 @@
-
-
-### Titanic Logistic Regression
+# Titanic Logistic Regression
 
 ## Description
 This repository contains a Machine Learning project that uses logistic regression to predict the survival of Titanic passengers. The project is implemented in Python and uses Jupyter Notebook for data visualization and analysis.
