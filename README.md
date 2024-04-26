@@ -21,6 +21,5 @@ This project is under the MIT license. For more details, refer to the `LICENSE` 
 ## Contact
 If you have any questions or comments, feel free to open an issue in the repository or contact me directly.
 
----
+![image](https://github.com/Fracktom/Titanic_Logistic_Regression/assets/129825724/66999532-f464-4a2c-9633-ecae5be6e46e)
 
-Is there anything else you'd like to add or change?
